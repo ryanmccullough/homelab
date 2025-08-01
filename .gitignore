@@ -1,0 +1,15 @@
+# OpenTofu / Terraform state
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Ignore override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
